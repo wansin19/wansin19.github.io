@@ -154,18 +154,19 @@ input, textarea {
 
 #heroroad {
     background-image: url(../javajam/heroroad.jpg);
-    background-size: 100%;
+    background-size: 100% 100%;
     height: 250px;
 }
 
 #heromugs {
     background-image: url(../javajam/heromugs.jpg);
     height: 250px;
+    background-size: 100% 100%;
 }
 
 #heroguitar {
     background-image: url(../javajam/heroguitar.jpg);
-    background-size: 100%;
+    background-size: 100% 100%;
     height: 250px;
 }
 
